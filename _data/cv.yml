@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Leandro Farias Maia
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Texas A&M University, Texas, U.S.
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Masters
+      institution: Federal University of Para, Brazil
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelors
+      institution: Military Institute of Engineering, Brazil
+      year: 2012
       description:
         - Description 1.
         - Description 2.
