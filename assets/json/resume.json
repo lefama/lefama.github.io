@@ -86,6 +86,22 @@
       "area": "Probabilistic Operations Research",
       "summary": "Part of the Connect Amazon Project, which provides connectivity for five geographically remote cities in the Amazon."
     }
+    {
+      "name": "Brazilian Army",
+      "position": "Captain",
+      "startDate": "2019",
+      "endDate": "2019",
+      "area": "Probabilistic Operations Research",
+      "summary": "Part of the Connect Amazon Project, which provides connectivity for five geographically remote cities in the Amazon."
+    }
+    {
+      "name": "Institute of Pure and Applied Math (IMPA)",
+      "position": "Programmer",
+      "startDate": "2009",
+      "endDate": "2012",
+      "area": "MATLAB and Java",
+      "summary": "In charge of Interpreting the mathematical model and implementing in MATLAB and JAVA."
+    }
   ],
   "volunteer": [
     {
@@ -101,11 +117,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
+      "title": "International Mathematical Olympiad",
+      "date": "2005-2006",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Bronze in 2006 and Honorable Mention in 2005"
     }
   ],
   "certificates": [
