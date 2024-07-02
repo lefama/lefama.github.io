@@ -18,6 +18,40 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Texas A&M University, Texas, U.S.",
+      "location": "Texas, U.S.",
+      "url": "https://engineering.tamu.edu/industrial/index.html",
+      "area": "Operations Research",
+      "studyType": "PhD",
+      "startDate": "2023",
+      "endDate": "2025",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Federal University of Para, Brazil",
+      "location": "Brazil",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "Masters",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Military Institute of Engineering, Brazil",
+      "location": "Brazil",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "Masters",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "work": [
     {
       "name": "Sandia National Labs",
@@ -48,41 +82,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Texas A&M University, Texas, U.S.",
-      "location": "Texas, U.S.",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    },
-    {
-      "institution": "Federal University of Para, Brazil",
-      "location": "Brazil",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "Masters",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    },
-    {
-      "institution": "Military Institute of Engineering, Brazil",
-      "location": "Brazil",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "Masters",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
