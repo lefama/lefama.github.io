@@ -1,18 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Leandro Farias Maia",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "fariasmaia@gmail.com",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "College Station",
       "countryCode": "US",
-      "region": "California"
+      "region": "TX"
     },
     "profiles": [
       {
@@ -24,11 +21,20 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Sandia National Labs",
+      "position": "Graduate Researcher",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024-05-20",
+      "endDate": "2024-08-16",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+    {
+      "name": "Texas Tech University",
+      "position": "Teaching Assistant",
+      "url": "https://example.com",
+      "startDate": "2023-01-04",
+      "endDate": "2023-05-10",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -47,11 +53,33 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Texas A&M University",
+      "location": "Texas, U.S.",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+    {
+      "institution": "Federal University of Para",
+      "location": "Brazil",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "Masters",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+    {
+      "institution": "Military Institute of Engineering",
+      "location": "Brazil",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "Masters",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
@@ -151,7 +179,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
