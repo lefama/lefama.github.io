@@ -28,7 +28,7 @@
       "endDate": "2024-08-16",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
+    },
     {
       "name": "Texas Tech University",
       "position": "Teaching Assistant",
@@ -53,7 +53,7 @@
   ],
   "education": [
     {
-      "institution": "Texas A&M University",
+      "institution": "Texas A&M University, Texas, U.S.",
       "location": "Texas, U.S.",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
@@ -62,9 +62,9 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
+    },
     {
-      "institution": "Federal University of Para",
+      "institution": "Federal University of Para, Brazil",
       "location": "Brazil",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
@@ -73,9 +73,9 @@
       "endDate": "1905-01-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
-    }
+    },
     {
-      "institution": "Military Institute of Engineering",
+      "institution": "Military Institute of Engineering, Brazil",
       "location": "Brazil",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
