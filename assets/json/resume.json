@@ -4,7 +4,7 @@
     "label": "Scientist",
     "image": "",
     "email": "fariasmaia@gmail.com",
-    "interest": "Large Scale Non Convex & Non Smooth Optmization",
+    "interest": "Large-Scale Non-Smooth & Non-Convex Optmization",
     "location": {
       "city": "College Station",
       "countryCode": "US",
@@ -30,15 +30,20 @@
       "courses": ["Theory of Relativity"]
     },
     {
+      "institution": "Texas Tech University (Transferred), Texas, U.S.",
+      "location": "Texas, U.S.",
+      "area": "Operations Research",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "2023",
+    },
+    {
       "institution": "Federal University of Para, Brazil",
       "location": "Brazil",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Professional an Educational Math",
       "studyType": "Masters",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016",
+      "endDate": "2018",
     },
     {
       "institution": "Military Institute of Engineering, Brazil",
@@ -46,10 +51,9 @@
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "Masters",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2008",
+      "endDate": "2012",
+      "summary": The Instituto Militar de Engenharia is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education
     }
   ],
   "work": [
