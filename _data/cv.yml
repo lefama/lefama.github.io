@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Leandro Farias Maia
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Portuguese
+    - name: Research Interest
+      value: Large-Scale Non-Smooth & Non-Convex Optimization
 
 - title: Education
   type: time_table
@@ -15,24 +15,19 @@
       institution: Texas A&M University, Texas, U.S.
       year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Ph.D. in Operations Research.
+        - Advisor: Dr. David H. Gutman
     - title: Masters
       institution: Federal University of Para, Brazil
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Professional and Educational Math.
     - title: Bachelors
       institution: Military Institute of Engineering, Brazil
       year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - Major: Computer Engineering.
+        - The Instituto Militar de Engenharia is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education
 
 - title: Experience
   type: time_table
