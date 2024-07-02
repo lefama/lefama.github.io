@@ -26,24 +26,24 @@
       "area": "Operations Research",
       "studyType": "PhD",
       "startDate": "2023",
-      "endDate": "2025",
-    },
+      "endDate": "2025"
+    }
     {
       "institution": "Texas Tech University (Transferred), Texas, U.S.",
       "location": "Texas, U.S.",
       "area": "Operations Research",
       "studyType": "PhD",
       "startDate": "2020",
-      "endDate": "2023",
-    },
+      "endDate": "2023"
+    }
     {
       "institution": "Federal University of Para, Brazil",
       "location": "Brazil",
       "area": "Professional an Educational Math",
       "studyType": "Masters",
       "startDate": "2016",
-      "endDate": "2018",
-    },
+      "endDate": "2018"
+    }
     {
       "institution": "Military Institute of Engineering, Brazil",
       "location": "Brazil",
@@ -51,7 +51,7 @@
       "area": "Software Development",
       "studyType": "Masters",
       "startDate": "2008",
-      "endDate": "2012",
+      "endDate": "2012"
     }
   ],
   "work": [
@@ -62,14 +62,14 @@
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Part of the Optimization and Uncertainty Quantification group 1463. Worked on Inexact Proximal for Inexact Trusted-Region Method under the advisory of Drew P. Kouri and Robert Baraldi.",
-    },
+    }
     {
       "name": "Texas A&M University and Texas Tech University",
       "position": "Research Assistant",
       "startDate": "2020",
       "endDate": "2025",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
-    },
+    }
     {
       "name": "Texas Tech University",
       "position": "Teaching Assistant",
@@ -77,7 +77,7 @@
       "endDate": "2023-05-10",
       "area": "Probabilistic Operations Research",
       "summary": "Graded assignments and exams as well as ran office ours for 40 students."
-    },
+    }
      {
       "name": "Brazilian Army",
       "position": "Captain",
