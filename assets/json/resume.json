@@ -53,17 +53,17 @@
       "studyType": "Masters",
       "startDate": "2008",
       "endDate": "2012",
-      "summary": The Instituto Militar de Engenharia is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education
+      "summary": "The Instituto Militar de Engenharia (IME) is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education"
     }
   ],
   "work": [
     {
       "name": "Sandia National Labs",
       "position": "Graduate Researcher",
-      "url": "https://example.com",
-      "startDate": "2024-05-20",
-      "endDate": "2024-08-16",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "url": "https://www.sandia.gov/research/facilities/computer-science-research-institute-csri/",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Part of the Optimization and Uncertainty Quantification group 1463. Worked on Inexact Proximal for Inexact Trusted-Region Method under the advisory of Drew P. Kouri and Robert Baraldi.",
       "highlights": ["Relativity"]
     },
     {
