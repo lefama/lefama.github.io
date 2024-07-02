@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. @ Texas A&M. College Station, TX. Contacts. Moto. Etc.
+subtitle: Ph.D. student @ Texas A&M
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>ETB 301</p>
     <p>101 Bizzell Street</p>
