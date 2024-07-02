@@ -63,16 +63,29 @@
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Part of the Optimization and Uncertainty Quantification group 1463. Worked on Inexact Proximal for Inexact Trusted-Region Method under the advisory of Drew P. Kouri and Robert Baraldi.",
-      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Texas A&M University and Texas Tech University",
+      "position": "Research Assistant",
+      "startDate": "2020",
+      "endDate": "2025",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     },
     {
       "name": "Texas Tech University",
       "position": "Teaching Assistant",
-      "url": "https://example.com",
       "startDate": "2023-01-04",
       "endDate": "2023-05-10",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "area": "Probabilistic Operations Research",
+      "summary": "Graded assignments and exams as well as ran office ours for 40 students."
+    },
+     {
+      "name": "Brazilian Army",
+      "position": "Captain",
+      "startDate": "2019",
+      "endDate": "2019",
+      "area": "Probabilistic Operations Research",
+      "summary": "Part of the Connect Amazon Project, which provides connectivity for five geographically remote cities in the Amazon."
     }
   ],
   "volunteer": [
