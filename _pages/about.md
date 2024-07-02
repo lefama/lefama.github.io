@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ETB 301 - Operations Research</p>
-    <p>Emerging Technologies Building</p>
+    <p>ETB 301</p>
+    <p>101 Bizzell Street</p>
     <p>College Station, TX 77843</p>
 
 news: true # includes a list of news items
