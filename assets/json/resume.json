@@ -21,7 +21,7 @@
   "education": [
     {
       "institution": "Texas A&M University, Texas, U.S.",
-      "location": "Texas, U.S.",
+      "location": "U.S.",
       "url": "https://www.uzh.ch/",
       "area": "Operations Research",
       "studyType": "PhD",
@@ -32,7 +32,7 @@
     },
     {
       "institution": "Texas Tech University (Transferred), Texas, U.S.",
-      "location": "Texas, U.S.",
+      "location": "U.S.",
       "url": "https://www.uzh.ch/",
       "area": "Operations Research",
       "studyType": "PhD",
@@ -43,7 +43,7 @@
     },
     {
       "institution": "Federal University of Para, Brazil",
-      "location": "Para, Brazil",
+      "location": "Brazil",
       "url": "https://www.uzh.ch/",
       "area": "Professional Mathematics",
       "studyType": "Masters",
@@ -54,7 +54,7 @@
     },
     {
       "institution": "Military Institute of Engineering, Rio de Janeiro, Brazil",
-      "location": "Rio de Janeiro, Brazil",
+      "location": "Brazil",
       "url": "https://www.uzh.ch/",
       "area": "Computer Engineering",
       "studyType": "Bachelors",
