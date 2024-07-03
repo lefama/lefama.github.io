@@ -28,7 +28,7 @@
       "startDate": "2023",
       "endDate": "Now",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Advisor: Dr. David H. Gutman"]
     },
     {
       "institution": "Texas Tech University (Transferred), Texas, U.S.",
@@ -39,7 +39,7 @@
       "startDate": "2020",
       "endDate": "2023",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Advisor: Dr. David H. Gutman"]
     },
     {
       "institution": "Federal University of Para, Brazil",
@@ -53,15 +53,15 @@
       "courses": ["Theory of Relativity"]
     },
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Military Institute of Engineering, Rio de Janeiro, Brazil",
+      "location": "Rio de Janeiro, Brazil",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "area": "Computer Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2008",
+      "endDate": "2012",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["The Instituto Militar de Engenharia (IME) is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education"]
     }
   ],
   "work": [
