@@ -22,8 +22,8 @@
     {
       "institution": "Texas A&M University, Texas, U.S.",
       "location": "U.S.",
-      "url": "https://www.uzh.ch/",
-      "area": "Operations Research",
+      "url": "https://engineering.tamu.edu/industrial/index.html",
+      "area": "Department of Industrial and Systems Engineering (Operations Research)",
       "studyType": "PhD",
       "startDate": "2023",
       "endDate": "Now",
@@ -33,8 +33,8 @@
     {
       "institution": "Texas Tech University (Transferred), Texas, U.S.",
       "location": "U.S.",
-      "url": "https://www.uzh.ch/",
-      "area": "Operations Research",
+      "url": "https://www.depts.ttu.edu/imse/",
+      "area": "Department of Industrial, Manufacturing, and Systems Engineering (Operations Research)",
       "studyType": "PhD",
       "startDate": "2020",
       "endDate": "2023",
@@ -44,24 +44,24 @@
     {
       "institution": "Federal University of Para, Brazil",
       "location": "Brazil",
-      "url": "https://www.uzh.ch/",
+      "url": "https://profmat-sbm.org.br",
       "area": "Professional Mathematics",
       "studyType": "Masters",
       "startDate": "2016",
       "endDate": "2018",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Thesis: Diophantine Equations"]
     },
     {
       "institution": "Military Institute of Engineering, Rio de Janeiro, Brazil",
       "location": "Brazil",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.ime.eb.mil.br/en/",
       "area": "Computer Engineering",
       "studyType": "Bachelors",
       "startDate": "2008",
       "endDate": "2012",
       "score": "10",
-      "courses": ["The Instituto Militar de Engenharia (IME) is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education"]
+      "courses": ["The Military Institute of Engineering (IME) is an engineering institute maintained by the Brazilian Army with federal support. IME is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education"]
     }
   ],
   "publications": [
