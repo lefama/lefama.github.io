@@ -66,6 +66,33 @@
   ],
   "work": [
     {
+      "name": "Sandia National Labs",
+      "position": "Graduate Researcher",
+      "url": "https://example.com",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Worked on Inexact Proximal Map applied to an Inexact Trust-Region Method.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Texas A&M University and Texas Tech University",
+      "position": "Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2020",
+      "endDate": "Now",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Teaching Assistant",
+      "position": "Texas Tech University",
+      "url": "https://example.com",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
@@ -180,7 +207,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
