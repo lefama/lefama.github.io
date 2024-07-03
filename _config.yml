@@ -239,8 +239,6 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
-  - package.json
-  - package-lock.json
   - _pages/about_einstein.md
   - _pages/projects.md
   - _pages/teaching.md
