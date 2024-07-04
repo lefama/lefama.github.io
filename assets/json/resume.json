@@ -73,7 +73,7 @@
       "summary": "This paper expands the cyclic block proximal gradient method for block separable composite minimization by allowing for inexactly computed gradients and pre-conditioned proximal maps."
     },
     {
-      "name": "he Randomized Block Coordinate Descent Method in the Hölder Smooth Setting",
+      "name": "The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting",
       "publisher": "Optimization Letters (Minor Review)",
       "releaseDate": "2024-06",
       "url": "https://arxiv.org/abs/2403.08080",
@@ -82,7 +82,7 @@
   ],
   "work": [
     {
-      "name": "Sandia National Labs",
+      "name": "Sandia National Laboratories",
       "position": "Graduate Researcher",
       "url": "https://example.com",
       "startDate": "2024-05",
