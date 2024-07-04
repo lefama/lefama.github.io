@@ -96,7 +96,7 @@
       "url": "https://example.com",
       "startDate": "2020",
       "endDate": "Now",
-      "summary": "Working on multiple projects in large-scale optimization intended for publication in reputable optimization journals.",
+      "summary": "Working on multiple projects in large-scale optimization intended for publication in reputable optimization journals."
     },
     {
       "name": "Teaching Assistant",
@@ -121,7 +121,7 @@
       "url": "https://example.com",
       "startDate": "2010",
       "endDate": "2012",
-      "summary": "Part of “Petroleo Brasileiro S.A” (PETROBRAS) Real-Options group at IMPA.."
+      "summary": "Part of “Petroleo Brasileiro S.A” (PETROBRAS) Real-Options group at IMPA."
     }
   ],
   "volunteer": [
@@ -139,9 +139,8 @@
   "awards": [
     {
       "title": "International Mathematical Olympiad",
-      "date": "2006",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "date": "2005 & 2006",
+      "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
       "summary": "Bronze Medal in 2006 (Slovenia) and Honorable Mention in 2005 (Mexico)'"
     }
   ],
