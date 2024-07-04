@@ -88,7 +88,7 @@
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Worked on Inexact Proximal Map applied to an Inexact Trust-Region Method.",
-      "highlights": ["Relativity"]
+      "highlights": ["Mentors: Dr. Drew P. Kouri and Dr. Robert Baraldi."]
     },
     {
       "name": "Texas A&M University and Texas Tech University",
@@ -96,8 +96,7 @@
       "url": "https://example.com",
       "startDate": "2020",
       "endDate": "Now",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Working on multiple projects in large-scale optimization intended for publication in reputable optimization journals.",
     },
     {
       "name": "Teaching Assistant",
@@ -105,17 +104,24 @@
       "url": "https://example.com",
       "startDate": "2023-01",
       "endDate": "2023-05",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Teaching assistant for “Probabilistic Operations Research” (IE3312).",
+      "highlights": ["Course taught by Dr. Ningji Wei."]
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Brazilian Army",
+      "position": "Captain",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Assigned to the Connected Amazon project."
+    },
+    {
+      "name": "Institute of Pure and Applied Math (IMP)",
+      "position": "Programmer",
+      "url": "https://example.com",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "Part of “Petroleo Brasileiro S.A” (PETROBRAS) Real-Options group at IMPA.."
     }
   ],
   "volunteer": [
