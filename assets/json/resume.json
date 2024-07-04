@@ -254,7 +254,7 @@
       "url": "https://example.com"
     }
   ],
-  "relevent courses": [
+  "courses": [
     {
       "name": "Ph.D. level courses",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
