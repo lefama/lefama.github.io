@@ -13,8 +13,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "l_eandroMaia",
+        "url": "https://twitter.com/l_eandroMaia"
       }
     ]
   },
@@ -66,25 +66,18 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps",
+      "publisher": "Journal of Optimization Theory and Applications",
+      "releaseDate": "2024-05",
+      "url": "https://rdcu.be/dMGet",
+      "summary": "This paper expands the cyclic block proximal gradient method for block separable composite minimization by allowing for inexactly computed gradients and pre-conditioned proximal maps."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "he Randomized Block Coordinate Descent Method in the Hölder Smooth Setting",
+      "publisher": "Optimization Letters (Minor Review)",
+      "releaseDate": "2024-06",
+      "url": "https://arxiv.org/abs/2403.08080",
+      "summary": "This work provides the first convergence analysis for the Randomized Block Coordinate Descent method for minimizing a function that is both Hölder smooth and block Hölder smooth."
     }
   ],
   "work": [
