@@ -1,6 +1,6 @@
 ---
-layout: profiles
-permalink: /people/
+layout: talks
+permalink: /talk/
 title: talks
 description: members of the lab or group
 nav: true
