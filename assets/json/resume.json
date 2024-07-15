@@ -178,7 +178,7 @@
       "name": "Branch-and-Cut for Linear Programming",
       "summary": "I worked under the advisory of Dr. Ismael R. de-Farias during the Research Experience for Undergraduates (REU) at Texas Tech University. My research focused on exploring the Branch-and-Cut method for linear programming with multiple-choice constraints. I applied CPLEX and Gurobi to implement and evaluate the algorithms developed.",
       "startDate": "2018-07",
-      "endDate": "2017-06",
+      "endDate": "2017-06"
     }
   ]
 }
