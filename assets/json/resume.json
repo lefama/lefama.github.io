@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Leandro F. Maia",
-    "label": "Scientist",
     "image": "",
     "email": "fariasmaia@gmail.com",
-    "summary": "Ph.D student at Texas A&M University",
+    "summary": "Ph.D. student at Texas A&M University",
     "location": {
       "city": "College Station",
       "countryCode": "US",
@@ -24,7 +23,7 @@
       "location": "U.S.",
       "url": "https://engineering.tamu.edu/industrial/index.html",
       "area": "Department of Industrial and Systems Engineering (Operations Research)",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2023",
       "endDate": "Now",
       "score": "10",
@@ -35,7 +34,7 @@
       "location": "U.S.",
       "url": "https://www.depts.ttu.edu/imse/",
       "area": "Department of Industrial, Manufacturing, and Systems Engineering (Operations Research)",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2020",
       "endDate": "2023",
       "score": "10",
