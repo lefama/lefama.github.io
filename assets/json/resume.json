@@ -65,6 +65,12 @@
   ],
   "publications": [
     {
+      "name": "An Adaptive Proximal ADMM for Nonconvex Linearly-Constrained Composite Programs",
+      "publisher": "Mathematical Programming (Submitted)",
+      "url": "https://rdcu.be/dMGet",
+      "summary": "This paper expands the cyclic block proximal gradient method for block separable composite minimization by allowing for inexactly computed gradients and pre-conditioned proximal maps."
+    },
+    {
       "name": "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps",
       "publisher": "Journal of Optimization Theory and Applications",
       "releaseDate": "2024-05",
@@ -176,9 +182,10 @@
   "projects": [
     {
       "name": "Branch-and-Cut for Linear Programming",
-      "summary": "I worked under the advisory of Dr. Ismael R. de-Farias during the Research Experience for Undergraduates (REU) at Texas Tech University. My research focused on exploring the Branch-and-Cut method for linear programming with multiple-choice constraints. I applied CPLEX and Gurobi to implement and evaluate the algorithms developed.",
+      "summary": "Research Experience for Undergraduates (REU) at Texas Tech University.",
       "startDate": "2018-07",
-      "endDate": "2017-06"
+      "endDate": "2017-06",
+      "highlights": ["worked under the advisory of Dr. Ismael R. de-Farias.", "focused on exploring the Branch-and-Cut method for linear programming with multiple-choice constraints", "applied CPLEX and Gurobi to implement and evaluate the algorithms developed"]
     }
   ]
 }
