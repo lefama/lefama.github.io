@@ -67,6 +67,7 @@
     {
       "name": "An Adaptive Proximal ADMM for Nonconvex Linearly-Constrained Composite Programs",
       "publisher": "Mathematical Programming (Submitted)",
+      "releaseDate": "2024-07",
       "url": "https://rdcu.be/dMGet",
       "summary": "This paper develops an adaptive Proximal Alternating Direction Method of Multipliers (P-ADMM) for solving linearly-constrained, weakly convex, composite optimization problems."
     },
