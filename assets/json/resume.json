@@ -68,7 +68,7 @@
       "name": "An Adaptive Proximal ADMM for Nonconvex Linearly-Constrained Composite Programs",
       "publisher": "Mathematical Programming (Submitted)",
       "url": "https://rdcu.be/dMGet",
-      "summary": "This paper expands the cyclic block proximal gradient method for block separable composite minimization by allowing for inexactly computed gradients and pre-conditioned proximal maps."
+      "summary": "This paper develops an adaptive Proximal Alternating Direction Method of Multipliers (P-ADMM) for solving linearly-constrained, weakly convex, composite optimization problems."
     },
     {
       "name": "The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps",
