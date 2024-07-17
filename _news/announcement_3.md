@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper conditionally accepted: [The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting.](https://arxiv.org/pdf/2403.08080)
+Paper conditionally accepted at **Optimization Letters**: [The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting.](https://arxiv.org/pdf/2403.08080)
