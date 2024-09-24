@@ -60,7 +60,7 @@
       "startDate": "2008",
       "endDate": "2012",
       "score": "10",
-      "courses": ["The Military Institute of Engineering (IME) is the oldest and one of the best ranked engineering schools in Brazil, according to the Brazilian Ministry of Education"]
+      "courses": ["The Military Institute of Engineering (IME) is the oldest and one of the best ranked engineering schools in Brazil."]
     }
   ],
   "publications": [
@@ -100,7 +100,7 @@
       "name": "Texas A&M University and Texas Tech University",
       "position": "Research Assistant",
       "url": "https://example.com",
-      "startDate": "2020",
+      "startDate": "2020-01",
       "endDate": "Now",
       "summary": "Working on multiple projects in large-scale optimization intended for publication in reputable optimization journals."
     },
@@ -115,26 +115,26 @@
     },
     {
       "name": "Brazilian Army",
-      "position": "Captain",
+      "position": "Network and Data Center Engineer",
       "url": "https://example.com",
-      "startDate": "2018",
-      "endDate": "2019",
-      "summary": "Assigned to the Connected Amazon project."
+      "startDate": "2018-12",
+      "endDate": "2019-12",
+      "summary": "As a Captain assigned to the Connected Amazon project, I led efforts to provide connectivity to geographically remote cities in the Amazon. This involved installing fiber optic cables beneath the Amazon River and constructing smart data centers in each of the target cities, significantly improving the region’s access to digital infrastructure and communication."
     },
     {
-      "name": "Institute of Pure and Applied Math (IMP)",
-      "position": "Programmer",
+      "name": "Institute of Pure and Applied Math (IMPA)",
+      "position": "Undergraduate Programmer Intern",
       "url": "https://example.com",
       "startDate": "2010",
       "endDate": "2012",
-      "summary": "Part of “Petroleo Brasileiro S.A” (PETROBRAS) Real-Options group at IMPA."
+      "summary": "Part of “Petroleo Brasileiro S.A” (PETROBRAS) Real-Options group at IMPA. In charge of interpreting the optimization mathematical model and implementing it in MATLAB and Java."
     }
   ],
   "volunteer": [
     {
       "organization": "Agape Project",
       "location": "Amazonas, Brazil",
-      "position": "Tutor",
+      "position": "Lecturer and Tutor",
       "startDate": "2018",
       "endDate": "2019",
       "summary": "This social project located in the Brazilian Amazonia aims to support low-income students by providing daily classes and food."
