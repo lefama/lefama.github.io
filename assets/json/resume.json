@@ -89,11 +89,11 @@
   "work": [
     {
       "name": "Sandia National Laboratories",
-      "position": "Graduate Researcher",
+      "position": "Graduate Researcher Intern",
       "url": "https://example.com",
       "startDate": "2024-05",
       "endDate": "2024-08",
-      "summary": "Worked on Inexact Proximal Map applied to an Inexact Trust-Region Method.",
+      "summary": "Worked on an Inexact Proximal Map applied to an Inexact Trust-Region Method.",
       "highlights": ["Mentors: Dr. Drew P. Kouri and Dr. Robert Baraldi."]
     },
     {
@@ -146,6 +146,18 @@
       "date": "2005 & 2006",
       "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
       "summary": "Bronze Medal in 2006 (Slovenia) and Honorable Mention in 2005 (Mexico)'"
+    },
+    {
+      "title": "International Mathematics Competition for University Student",
+      "date": "2009 & 2010 & 2012",
+      "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
+      "summary": "Bronze Medal in 2008 (Hungry), 2009 (Bulgaria) and Honorable Mention in 2012 (Bulgaria)'"
+    },
+    {
+      "title": "International Mathematics Competition for University Student",
+      "date": "2009 & 2010 & 2012",
+      "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
+      "summary": "Bronze Medal in 2008 (Hungry), 2009 (Bulgaria) and Honorable Mention in 2012 (Bulgaria)'"
     }
   ],
   "skills": [
@@ -185,6 +197,13 @@
       "startDate": "2018-07",
       "endDate": "2017-06",
       "highlights": ["worked under the advisory of Dr. Ismael R. de-Farias.", "focused on exploring the Branch-and-Cut method for linear programming with multiple-choice constraints", "applied CPLEX and Gurobi to implement and evaluate the algorithms developed"]
+    },
+    {
+      "name": "Graph Theory applied to an Academic Network",
+      "summary": "Awarded a scholarship from the Brazilian National Council for Scientific and Technological Development (CNPq).",
+      "startDate": "2010-01",
+      "endDate": "2010-12",
+      "highlights": ["worked under the advisory of Dr. Claudia Justel", "focused on applying graph theory to an academic network to detect comunities in a graph", "Project resulted in a published paper."]
     }
   ]
 }
