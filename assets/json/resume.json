@@ -82,7 +82,7 @@
       "name": "The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting",
       "publisher": "Optimization Letters",
       "releaseDate": "2024-06",
-      "url": "url:https://doi.org/10.1007/s11590-024-02161-6",
+      "url": "https://doi.org/10.1007/s11590-024-02161-6",
       "summary": "This work provides the first convergence analysis for the Randomized Block Coordinate Descent method for minimizing a function that is both Hölder smooth and block Hölder smooth."
     }
   ],
