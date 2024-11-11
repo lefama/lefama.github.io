@@ -66,8 +66,8 @@
   "publications": [
     {
       "name": "An Adaptive Proximal ADMM for Nonconvex Linearly-Constrained Composite Programs",
-      "publisher": "Mathematical Programming (Submitted)",
-      "releaseDate": "2024-07",
+      "publisher": "Mathematical Programming (Major Revision)",
+      "releaseDate": "2024-11",
       "url": "https://arxiv.org/abs/2407.09927",
       "summary": "This paper develops an adaptive Proximal Alternating Direction Method of Multipliers (P-ADMM) for solving linearly-constrained, weakly convex, composite optimization problems."
     },
@@ -80,9 +80,9 @@
     },
     {
       "name": "The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting",
-      "publisher": "Optimization Letters (Conditionally Accepted)",
+      "publisher": "Optimization Letters",
       "releaseDate": "2024-06",
-      "url": "https://arxiv.org/abs/2403.08080",
+      "url": "url:https://doi.org/10.1007/s11590-024-02161-6",
       "summary": "This work provides the first convergence analysis for the Randomized Block Coordinate Descent method for minimizing a function that is both Hölder smooth and block Hölder smooth."
     }
   ],
