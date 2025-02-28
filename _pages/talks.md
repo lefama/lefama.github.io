@@ -1,9 +1,17 @@
-- **ISMP 2024** (Montreal): Inexact Adaptive Proximal ADMM for Linearly Constrained Optimization
+**2025: INFORMS Student Chapter:** Texas Tech University**
+- Block Decomposable and Trust Region Methods for Large-Scale Optimization Problems
 
-- **INFORMS Optimization Society 2024** (Houston): Adaptive Proximal ADMM for Linearly Constrained Optimization
+**2024: ISMP**(Montreal)
+- Inexact Adaptive Proximal ADMM for Linearly Constrained Optimization
 
-- **INFORMS 2023** (Phoenix): The Inexact Cyclic & Randomized Block Proximal Map
+**2024 INFORMS Optimization Society** (Houston)
+- Adaptive Proximal ADMM for Linearly Constrained Optimization
 
-- **SIAM OPT 2023** (Seattle): The Inexact Cyclic & Randomized Block Proximal Map
+**2023 INFORMS**(Phoenix)
+- The Inexact Cyclic & Randomized Block Proximal Map
 
-- **INFORMS 2022** (Indiana): The Inexact Cyclic Block Proximal Map
+**2023 SIAM OPT** (Seattle)
+- The Inexact Cyclic & Randomized Block Proximal Map
+
+**INFORMS 2022** (Indiana)
+The Inexact Cyclic Block Proximal Map
