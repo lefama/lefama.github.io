@@ -140,13 +140,7 @@
       "title": "International Mathematics Competition for University Student",
       "date": "2009 & 2010 & 2012",
       "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
-      "summary": "Bronze Medal in 2008 (Hungry), 2009 (Bulgaria) and Honorable Mention in 2012 (Bulgaria)'"
-    },
-    {
-      "title": "International Mathematics Competition for University Student",
-      "date": "2009 & 2010 & 2012",
-      "url": "https://www.imo-official.org/participant_r.aspx?id=8583",
-      "summary": "Bronze Medal in 2008 (Hungry), 2009 (Bulgaria) and Honorable Mention in 2012 (Bulgaria)'"
+      "summary": "Bronze Medal in 2008 (Hungary), 2009 (Bulgaria) and Honorable Mention in 2012 (Bulgaria)'"
     }
   ],
   "skills": [
@@ -155,7 +149,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Matlab, Python, C/C++, Java"
+        "Matlab, Python, C/C++"
       ]
     },
     {
