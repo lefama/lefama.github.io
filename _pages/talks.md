@@ -14,4 +14,4 @@
 - The Inexact Cyclic & Randomized Block Proximal Map
 
 **INFORMS 2022** (Indiana)
-The Inexact Cyclic Block Proximal Map
+- The Inexact Cyclic Block Proximal Map
