@@ -1,4 +1,4 @@
-**2025: INFORMS Student Chapter:** Texas Tech University
+**2025: INFORMS Student Chapter:** Texas Tech University**
 - Block Decomposable and Trust Region Methods for Large-Scale Optimization Problems
 
 **2024: ISMP**(Montreal)
