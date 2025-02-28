@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student @ Texas A&M
+subtitle: Ph.D. candidate @ Texas A&M
 
 profile:
   align: right
