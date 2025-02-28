@@ -240,7 +240,6 @@ exclude:
   - lighthouse_results/
   - _pages/about_einstein.md
   - _pages/projects.md
-  - _pages/teaching.md
   - _pages/repositories.md
   - _pages/people.md
   - purgecss.config.js
