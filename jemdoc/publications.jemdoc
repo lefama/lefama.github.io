@@ -2,14 +2,18 @@
 = Publications
 
 == Preprints
-. L.F. Maia, D.H. Gutman, R.D.C. Monteiro and G. Silva [https://arxiv.org/abs/2407.09927 An Adaptive Proximal ADMM for Nonconvex Linearly Constrained Composite Programs .]
- - (Submitted to Mathematical Programming) 
+. L.F. Maia, D.H. Gutman, R.D.C. Monteiro and G. Silva [https://arxiv.org/abs/2407.09927 An Adaptive Proximal ADMM for Nonconvex Linearly Constrained Composite Programs .] (Submitted to Mathematical Programming)
+
 
 == Journal Papers
 
 . L.F. Maia and D.H. Gutman, [https://link.springer.com/article/10.1007/s11590-024-02161-6 The Randomized Block Coordinate Descent Method in the Hölder Smooth Setting.] Optimization Letters
-. L.F. Maia, D.H. Gutman and R.C. Rughes, [https://link.springer.com/article/10.1007/s10957-024-02404-7 The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps.] JOTA.
+. L.F. Maia, D.H. Gutman and R.C. Rughes, [https://link.springer.com/article/10.1007/s10957-024-02404-7 The Inexact Cyclic Block Proximal Gradient Method and Properties of Inexact Proximal Maps.] Journal of Optimization Theory and Applications.
+. L.F. Maia, H.B. Nobre and C.M. Justel, Community Detection Problem for an Academic Network. Sistemas & Gestao
+
 
 == Conference Papers
-- M. Member and M. Member. Paper-title. Conference name. Publication info.
+. L.F. Maia,  R. Baraldi and D.P.Kouri, [https://www.sandia.gov/app/uploads/sites/210/2024/12/CSRI-2024-proceedings_Final.pdf A Weighted Proximal Trust-Region Method.] Computer 
+Science Research Institute Summer Proceedings (Sandia National Laboratories).
+
 
