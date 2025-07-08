@@ -15,11 +15,13 @@
   Department of Mechanical, Industrial, and Manufacturing Engineering<br>
    Oregon State University</p>
   <p style="margin: 10px 0;">
-    I work on large-scale optimization algorithms and their applications in machine learning, data science and artificial inteligence. I focus on inexact block decomposable and trust-region methods.
+    I work on theoretical and computational analysis of algorithms for large-scale optimization problems, 
+    with a particular focus on nonsmooth and nonconvex problems. These challenges frequently arise in applications across machine learning, artificial intelligence, and data science. 
+    I focus on inexact block decomposable and trust-region methods.
   </p>
   <p>
     <a href="https://scholar.google.com/citations?user=pPzHK40AAAAJ&hl=en">[Google Scholar]</a> &nbsp;
-    <a href="cv/Leandro_CV.pdf">[CV]</a> &nbsp;
+    <a href="https://drive.google.com/file/d/13jZgd1ICfBOFAp7CDhhOVHngLrjZnXSg/view?usp=sharing">[CV]</a> &nbsp;
     <a href="mailto:leandro.maia@oregonstate.edu">[Email]</a>
   </p>
 </div>
